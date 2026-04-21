@@ -1,2 +1,3 @@
 # Amazon---Customer-Behavior-Recommendation-System-Analysis
 Conducted a comprehensive, multi-task data analysis on Amazon's customer shopping behavior using Python. The project involved cleaning and validating an 800-record dataset, performing exploratory data analysis across demographics, purchase patterns, and browsing habits, and applying K-Means clustering to identify distinct customer archetypes.
+Statistical correlation analysis was used to evaluate the impact of personalized recommendations and review reliability on shopping satisfaction, ultimately delivering data-driven strategies to optimize Amazon's recommendation engine, reduce cart abandonment, and improve overall platform engagement.
